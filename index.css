@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  margin-top: 10px;
+  padding: 10px;
+  border-raduis: 20px;
+  border-color: brown;
+  border-style: solid;
+  font-family: arial;
+  background-color: whitesmoked;
+
+}
+
+.head-title {
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2.5vw;
+  text-align: center;
+
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  padding: 16px;
+  margin: 2px;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: 25rem;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.lightbox-image {
+  max-width: 500px;
+  max-height: 1000px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
