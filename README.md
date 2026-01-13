@@ -7,8 +7,9 @@ Teknologier brukt:
 
 - HTML5
 
-- CSS3 (evt. Tailwind/SCSS/Bootstrap hvis brukt)
+- CSS3
 
-- JavaScript (eller React/Vue/Next osv.)
+- JavaScript
 
-- Netlify (hosting)
+- React Native
+
