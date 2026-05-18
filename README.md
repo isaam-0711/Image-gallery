@@ -4,9 +4,7 @@ Laget en responsiv bildegalleri-webapp som viser bilder i et fint grid. Appen er
 
 Teknologier brukt:
 
-- HTML5
-
-- CSS3
+- CSS3/Tailwind
 
 - JavaScript
 
